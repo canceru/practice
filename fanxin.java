@@ -73,6 +73,7 @@ class OuterClass {
     }
 
 
+class OuterClass {
     public void test(){
         System.out.println("test()");
     }
@@ -95,3 +96,5 @@ public class TestDemo {
             }
         }.test();
     }
+
+
